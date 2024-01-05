@@ -1,0 +1,1 @@
+#include"Lc_str.h"
